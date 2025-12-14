@@ -5,6 +5,7 @@
   <Project Path="Diagonal Difference/Diagonal Difference.csproj" />
   <Project Path="HackerRank/CountElementsGreaterThanPreviousAverage.csproj" />
   <Project Path="MiniMaxSum/MiniMaxSum.csproj" />
+  <Project Path="StringSimilarity/StringSimilarity.csproj" Id="d7aac157-0a1d-4e5b-ab3e-1fe3a9a24898" />
   <Project Path="Tara'sBeautifulPermutations/Tara'sBeautifulPermutations.csproj" />
   <Project Path="TimeConversion/TimeConversion.csproj" />
 </Solution>
