@@ -1,10 +1,18 @@
 <Solution>
+  <Project Path="AppleandOrange/AppleandOrange.csproj" Id="cdb55f4a-61f0-470f-98e6-5bfb922d98af" />
+  <Project Path="AVeryBigSum/AVeryBigSum.csproj" Id="ba7a1f88-7d8d-494e-870d-1fda286ab25f" />
   <Project Path="BirthdayCakeCandles/BirthdayCakeCandles.csproj" />
   <Project Path="CompareTheTriplets/CompareTheTriplets.csproj" />
   <Project Path="CountNumberPairs/CountNumberPairs.csproj" />
   <Project Path="Diagonal Difference/Diagonal Difference.csproj" />
+  <Project Path="GradingStudents/GradingStudents.csproj" Id="86c81e88-12e8-4438-892d-3db480e2aaf8" />
   <Project Path="HackerRank/CountElementsGreaterThanPreviousAverage.csproj" />
   <Project Path="MiniMaxSum/MiniMaxSum.csproj" />
+  <Project Path="PlusMinus/PlusMinus.csproj" Id="00111c7d-2c31-4e51-975a-01e2d7bc21c5" />
+  <Project Path="SalesByMatch/SalesByMatch.csproj" Id="b16938b3-d116-4485-9910-852f0e20b4e4" />
+  <Project Path="SimpleArraySum/SimpleArraySum.csproj" Id="a9054725-c6a9-4b84-b235-95c6b03130f6" />
+  <Project Path="SolveMeFirst/SolveMeFirst.csproj" Id="371132cb-ff6e-4b6d-9064-71594eba89df" />
+  <Project Path="Staircase/Staircase.csproj" Id="9a943520-e5e7-406e-a0c9-68951b45f47a" />
   <Project Path="StringSimilarity/StringSimilarity.csproj" Id="d7aac157-0a1d-4e5b-ab3e-1fe3a9a24898" />
   <Project Path="Tara'sBeautifulPermutations/Tara'sBeautifulPermutations.csproj" />
   <Project Path="TimeConversion/TimeConversion.csproj" />
