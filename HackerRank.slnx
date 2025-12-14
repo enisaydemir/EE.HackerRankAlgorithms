@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="BirthdayCakeCandles/BirthdayCakeCandles.csproj" />
+  <Project Path="CompareTheTriplets/CompareTheTriplets.csproj" />
+  <Project Path="CountNumberPairs/CountNumberPairs.csproj" />
+  <Project Path="Diagonal Difference/Diagonal Difference.csproj" />
+  <Project Path="HackerRank/CountElementsGreaterThanPreviousAverage.csproj" />
+  <Project Path="MiniMaxSum/MiniMaxSum.csproj" />
+  <Project Path="Tara'sBeautifulPermutations/Tara'sBeautifulPermutations.csproj" />
+  <Project Path="TimeConversion/TimeConversion.csproj" />
+</Solution>
